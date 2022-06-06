@@ -5,7 +5,7 @@
 [Genesis File](/kitten-02/genesis.json):
 
 ```bash
-   curl -s  https://raw.githubusercontent.com/DigitalKitchenLab/testnets/main/kitten-02/genesis.json > ~/.coolcatd/config/genesis.json
+   curl -s  https://raw.githubusercontent.com/DigitalKitchenLabs/testnets/main/kitten-02/genesis.json > ~/.coolcatd/config/genesis.json
 ```
 
 ## Setup
